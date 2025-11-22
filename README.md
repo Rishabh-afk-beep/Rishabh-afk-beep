@@ -1,5 +1,22 @@
-# 💫 About Me:
-🔭 I’m currently working on A smart Resume Screening Tool that uses NLP to align candidates with job roles automatically.<br>👯 I’m looking to collaborate on Innovative AI projects — especially in healthcare, education, or rural development using tech.<br>🤝 I’m looking for help with Deploying LLM-powered apps efficiently and making them accessible through voice interfaces.<br>🌱 I’m currently learning Advanced React (Next.js), RAG (Retrieval-Augmented Generation), and working with Hugging Face models.<br>💬 Ask me about Hackathon strategies, building full-stack AI projects, or how to turn an idea into a working demo fast.<br>⚡ Fun fact My first voice assistant for rural users could talk in multiple Indian languages using open APIs!
+💫 About Me
+
+🌱 Currently Exploring:
+Diving deep into Blockchain, its core components, and how decentralized technologies solve real-world problems.
+
+🔍 Interest Areas:
+I enjoy working on practical, real-world tech solutions — especially where AI, software engineering, and emerging technologies intersect.
+
+🚀 Open to Opportunities:
+Excited to contribute to impactful projects with teams or organizations working on innovative technology.
+
+👨‍💻 Technical Focus:
+I love experimenting with AI, full-stack development, system design, and learning technologies that can scale in real environments.
+
+💬 Ask Me About:
+Hackathons, building quick MVPs, AI workflows, or integrating voice-based interactions into applications.
+
+⚡ Fun Fact:
+I pick up new technologies fast — my recent deep dive into Blockchain started as curiosity and quickly turned into a structured learning journey.
 
 
 ## 🌐 Socials:
